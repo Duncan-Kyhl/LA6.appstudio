@@ -1,11 +1,3 @@
-url = https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg
-
-
-
-Menu1.onclick=function(){
-  
-}
-
 Hamburger1.onclick = function(s) {
     if (typeof(s) == "object") {
         return;
@@ -23,7 +15,19 @@ Hamburger1.onclick = function(s) {
     if (s === "Delete Account") {
         // todo
     }
+    
+    alert('You clicked the menu')
 };
 PasswordInput1.onclick=function(){
   password = PasswordInput1.value
+  alert('Type your password here')
 }
+
+Calendar1.onclick=function(){
+   alert('Click a day on the calendar')
+}
+
+Rating1.onclick=function(){
+   alert('Leave your rating of the app!')
+}
+

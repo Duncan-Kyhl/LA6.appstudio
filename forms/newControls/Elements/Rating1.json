@@ -15,7 +15,7 @@
   "itemHeight": 30,
   "itemWidth": 30,
   "left": 14,
-  "onclick": "",
+  "onclick": "Rating1.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
