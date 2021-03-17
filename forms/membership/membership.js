@@ -1,4 +1,4 @@
-
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 btnSubmit.onclick=function(){
@@ -11,3 +11,4 @@ btnSubmit.onclick=function(){
       console.log(members)
         }
     }
+*/
