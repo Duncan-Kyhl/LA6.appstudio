@@ -7,7 +7,7 @@ displays the answer, and then clears the display
 when the user wants to calculate again. 
 All output is prefaced with the users' name. 
 */
-
+/*
 // Calculate and display result of inputs
 btnAdd.onclick=function(){
   // get inputs
@@ -32,5 +32,5 @@ btnMultiply.onclick=function(){
 btnReset.onclick=function(){
   inptNum1.value = inptNum2.value = inptUser.value = lblDisplay.value = result = '';
 }
-
+*/
 
